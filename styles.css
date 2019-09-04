@@ -1,0 +1,29 @@
+header{
+    width:80%;
+    min-height: 50px;
+    background-color: aqua;
+    margin:auto;
+}
+ul li{
+    width:200px;
+    height:40px;
+    float: left;
+    display:block;
+    padding-top: 10px;
+    text-align: center;
+    font-size: 20px;
+    background: red;
+}
+
+ul li a{
+    text-decoration: none;
+    color:#ffffff;
+}
+ul li:hover{
+    background-color: blue;
+}
+#innovative{
+    width:80%;
+    clear: both;
+    margin-left:200px;
+}
